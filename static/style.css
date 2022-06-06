@@ -1,0 +1,24 @@
+.add2{
+    width: 80px;
+    height: 30px;
+    background-color: greenyellow;
+    color: green;
+    border-radius: 10px;
+    margin: 5px;
+}
+.reset{
+    width: 80px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    margin: 5px;
+}
+p{
+    font-size: larger;
+}
+
+.headdiv, .pdiv, .buttonsdiv{
+    display: flex;
+    justify-content: center;
+}
